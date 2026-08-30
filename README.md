@@ -19,11 +19,11 @@ I enjoy turning ideas into working products, learning how things work under the 
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+<a href="https://github.com/SheshuNalla" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sheshunalla.dev@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
 
@@ -63,9 +63,9 @@ I enjoy turning ideas into working products, learning how things work under the 
 <h3>🏠 Property Pulse</h3>
 <p>A property rental platform for exploring and managing property listings through a clean and responsive interface.</p>
 <p>
-<a href="YOUR_PROPERTY_PULSE_REPO">🔗 Repo</a>
+<a href="https://github.com/SheshuNalla/property-pulse">🔗 Repo</a>
 &nbsp;•&nbsp;
-<a href="YOUR_PROPERTY_PULSE_DEMO">🌐 Live Demo</a>
+<a href="https://property-pulse-seven-sepia.vercel.app/">🌐 Live Demo</a>
 </p>
 <p><sub>React · JavaScript · MongoDB · Tailwind CSS</sub></p>
 </td>
@@ -75,9 +75,8 @@ I enjoy turning ideas into working products, learning how things work under the 
 <h3>🎬 Movie Explorer</h3>
 <p>A movie discovery application for searching and exploring movies through a clean and responsive user interface.</p>
 <p>
-<a href="YOUR_MOVIE_EXPLORER_REPO">🔗 Repo</a>
+<a href="https://github.com/SheshuNalla/ReactJsApp">🔗 Repo</a>
 &nbsp;•&nbsp;
-<a href="YOUR_MOVIE_EXPLORER_DEMO">🌐 Live Demo</a>
 </p>
 <p><sub>React · JavaScript · Tailwind CSS</sub></p>
 </td>
@@ -87,9 +86,9 @@ I enjoy turning ideas into working products, learning how things work under the 
 <h3>📚 BookList</h3>
 <p>A book management application built to practice CRUD operations and interactive frontend workflows.</p>
 <p>
-<a href="YOUR_BOOKLIST_REPO">🔗 Repo</a>
+<a href="https://github.com/SheshuNalla/MyBookList">🔗 Repo</a>
 &nbsp;•&nbsp;
-<a href="YOUR_BOOKLIST_DEMO">🌐 Live Demo</a>
+<a href="https://sheshunalla.github.io/MyBookList/">🌐 Live Demo</a>
 </p>
 <p><sub>React · JavaScript</sub></p>
 </td>
