@@ -2,24 +2,17 @@
 
 **`Aspiring Full-Stack Developer`**
 
+## About Me
 
--  💻 Building practical full-stack web applications with React, Next.js, and modern web technologies
--  🧠 Strengthening DSA & problem-solving skills through consistent LeetCode practice
--  🚀 Continuously improving my frontend, backend, and software development fundamentals
+-   Building practical full-stack web applications with React, Next.js, and modern web technologies
+-   Strengthening DSA & problem-solving skills through consistent LeetCode practice
+-   Continuously improving my frontend, backend, and software development fundamentals
 
-<br>
+---
 
-<a href="https://www.linkedin.com/in/sheshu-nalla/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://github.com/SheshuNalla" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-</a>
-&nbsp;
-<a href="mailto:sheshunalla.dev@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-</a>
+## Skill Stack
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,javascript,python,mongo,tailwind,docker,git,vscode&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -37,7 +30,7 @@
 &nbsp;•&nbsp;
 <a href="https://property-pulse-seven-sepia.vercel.app/">🌐 Live Demo</a>
 </p>
-<p><sub>Next.js · React · MongoDB · REST API's · NextAuth.js · Tailwind CSS</sub></p>
+<p><sub>Next.js · React.js · MongoDB · REST APIs · NextAuth.js · Tailwind CSS</sub></p>
 </td>
 
 <td width="33%" align="center">
@@ -48,7 +41,7 @@
 <a href="https://github.com/SheshuNalla/ReactJsApp">🔗 Repo</a>
 &nbsp;
 </p>
-<p><sub>React.js · Appwrite · JSON Server · React-use · Tailwind CSS</sub></p>
+<p><sub>React.js · Appwrite · JSON Server · react-use · Tailwind CSS</sub></p>
 </td>
 
 <td width="33%" align="center">
@@ -68,17 +61,19 @@
 
 ---
 
-## Skill Stack
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,javascript,python,mongo,tailwind,docker,git,vscode&theme=light)](https://skillicons.dev)
-
----
 
 ## Links
 
 - [**Portfolio**](https://sheshunalla.github.io/My-Portfolio/)
-- [**LinkedIn**](https://www.linkedin.com/in/sheshu-nalla/)
-- [**GitHub**](https://github.com/SheshuNalla)
 - [**Contact**](mailto:sheshunalla.dev@gmail.com)
+<a href="https://www.linkedin.com/in/sheshu-nalla/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/SheshuNalla" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+
 
 
