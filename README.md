@@ -12,7 +12,7 @@
 
 ## Skill Stack
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,javascript,python,mongo,tailwind,docker,git,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,javascript,python,mongo,html,css,tailwind,docker,git&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -24,7 +24,7 @@
 <td width="33%" align="center">
 <img src="./assets/property-pulse.png" alt="Property Pulse" width="100%">
 <h3>🏠 Property Pulse</h3>
-<p>A property rental platform for exploring and managing property listings through a clean and responsive interface.</p>
+<p>A full-stack property rental platform for exploring and managing property listings.</p>
 <p>
 <a href="https://github.com/SheshuNalla/property-pulse">🔗 Repo</a>
 &nbsp;•&nbsp;
@@ -36,7 +36,7 @@
 <td width="33%" align="center">
 <img src="./assets/movie-explorer.png" alt="Movie Explorer" width="100%">
 <h3>🎬 Movie Explorer</h3>
-<p>A movie discovery application for searching and exploring movies through a clean and responsive user interface.</p>
+<p>A movie discovery application for searching, browsing, and exploring movies.</p>
 <p>
 <a href="https://github.com/SheshuNalla/ReactJsApp">🔗 Repo</a>
 &nbsp;
@@ -66,14 +66,10 @@
 ## Links
 
 - [**Portfolio**](https://sheshunalla.github.io/My-Portfolio/)
+- [**LinkedIn**](https://www.linkedin.com/in/sheshu-nalla/)
+- [**GitHub**](https://github.com/SheshuNalla)
 - [**Contact**](mailto:sheshunalla.dev@gmail.com)
-<a href="https://www.linkedin.com/in/sheshu-nalla/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://github.com/SheshuNalla" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-</a>
+
 
 
 
