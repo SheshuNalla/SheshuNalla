@@ -81,17 +81,4 @@
 - [**GitHub**](https://github.com/SheshuNalla)
 - [**Contact**](mailto:sheshunalla.dev@gmail.com)
 
-## Problem Solving
 
-Currently focused on improving my **DSA and problem-solving skills** through consistent LeetCode practice.
-
-I'm working on understanding **reusable problem-solving patterns** rather than simply solving problems individually.
-
-**Current focus:**
-
-`Arrays` · `Hashing` · `Two Pointers` · `Sliding Window` · `Binary Search` · `Stack` · `Linked List` · `Trees` · `Graphs`
-
----
-
-
-⭐ Thanks for visiting my profile!
