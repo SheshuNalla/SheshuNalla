@@ -2,16 +2,10 @@
 
 **`Aspiring Full-Stack Developer`**
 
-### About Me
 
-I'm a **2025 CSE graduate** focused on building practical web applications and strengthening my problem-solving skills through **DSA and LeetCode**.
-
-I enjoy turning ideas into working products, learning how things work under the hood, and continuously improving as a developer.
-
-- 🔭 Currently building and improving full-stack projects
-- 🧠 Practicing DSA & problem solving on LeetCode
-- 🌱 Learning and improving my full-stack development skills
-- 💡 Interested in building practical, user-focused applications
+-  💻 Building practical full-stack web applications with React, Next.js, and modern web technologies
+-  🧠 Strengthening DSA & problem-solving skills through consistent LeetCode practice
+-  🚀 Continuously improving my frontend, backend, and software development fundamentals
 
 <br>
 
@@ -43,7 +37,7 @@ I enjoy turning ideas into working products, learning how things work under the 
 &nbsp;•&nbsp;
 <a href="https://property-pulse-seven-sepia.vercel.app/">🌐 Live Demo</a>
 </p>
-<p><sub>Next.js · React · MongoDB · RESTful API's · NextAuth.js · Tailwind CSS</sub></p>
+<p><sub>Next.js · React · MongoDB · REST API's · NextAuth.js · Tailwind CSS</sub></p>
 </td>
 
 <td width="33%" align="center">
@@ -66,7 +60,7 @@ I enjoy turning ideas into working products, learning how things work under the 
 &nbsp;•&nbsp;
 <a href="https://sheshunalla.github.io/MyBookList/">🌐 Live Demo</a>
 </p>
-<p><sub>HTML · TailwindCSS · JavaScript · Local Storage </sub></p>
+<p><sub>HTML · Tailwind CSS · JavaScript · Local Storage </sub></p>
 </td>
 
 </tr>
@@ -98,19 +92,6 @@ I'm working on understanding **reusable problem-solving patterns** rather than s
 `Arrays` · `Hashing` · `Two Pointers` · `Sliding Window` · `Binary Search` · `Stack` · `Linked List` · `Trees` · `Graphs`
 
 ---
-
-##  What I'm Working Toward
-
-I'm working toward becoming a strong **full-stack developer** by:
-
-- Building practical and meaningful applications
-- Strengthening DSA and problem-solving fundamentals
-- Deepening my understanding of frontend and backend development
-- Learning through hands-on projects
-- Writing cleaner and more maintainable code
-
----
-
 
 
 ⭐ Thanks for visiting my profile!
